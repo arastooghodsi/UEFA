@@ -1,0 +1,76 @@
+.bigwidth{
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.bigwidth .baner{
+  width: 1000px;
+  border: #DDDDDD 10px solid;
+  border-radius: 8px;
+}
+
+#content{
+  width: 770px;
+  float: right;
+  border: 2px solid gray;
+  border-radius: 8px;
+  background-color: white;
+  box-sizing: border-box;
+  box-shadow: 3px 3px 5px 5px #808080;
+  line-height: 25px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+#content p{
+  font-size: 12px;
+}
+
+#content img{
+  float: right;
+  display: inline-block;
+  width: 200px;
+  height: 100%;
+}
+
+#content img:hover{
+  opacity: 0.5;
+}
+
+#sidebar{
+  width: 200px;
+  float: left;
+  border: 2px solid gray;
+  border-radius: 8px;
+  line-height: 25px;
+  padding: 10px;
+  margin: 0 0 14px -17px;
+}
+
+#content .natn{
+  border-bottom: #808080 2px solid;
+  padding: 11px 3px 23px 3px;
+}
+
+#sidebar .side1 p{
+  font-size: 11px;
+}
+
+#sidebar .side1 h3{
+  border-bottom: #CC0000 1px solid;
+}
+
+#sidebar .side1 .navbar li a{
+  color: #000000;
+  font-size: 13px;
+}
+
+#sidebar .side1{
+  line-height: 30px;
+}
+
+#sidebar .side1 li a{
+  color: #000000;
+  font-size: 13px
+}

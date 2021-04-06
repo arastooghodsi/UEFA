@@ -1,0 +1,98 @@
+#footer-1{
+  height: 180px;
+  background-color: #808080;
+  border-top: #ADD8E6 3px solid;
+  width: 100%;
+  margin-top: 0;
+  clear: both;
+  column-count: 3;
+  column-gap: 30px;
+  column-rule: #FCB300 solid 2px;
+  padding: 50px 0 0 0;
+}
+#footer-1 .footer-title{
+  font-size: 12px;
+  color: #FCB300;
+}
+#footer-1 .footer-text{
+  font-size: 10px;
+  color: #FFFFFF;
+}
+#footer-1 .footer-item-1{
+  padding: 10px 30px 32px 0;
+}
+#footer-1 .footer-item-2,.footer-item-3{
+  padding: 10px 0 15px 0;
+}
+#footer-2{
+  height: 100px;
+  background-color: #808080;
+  width: 100%;
+  margin-top: 0;
+  clear: both;
+  -padding: 50px 0 0 0;
+}
+#footer-2 .copyright span{
+  font-size: 10px;
+  color: #FCB300;
+}
+#footer-2 .copyright a{
+  font-size: 16px;
+}
+#footer-2 .copyright{
+  text-align: center;
+}
+#footer-2 .icons .socialbar .social-icon .fb{
+  background-image: url(src/assets/icon/facebook.png);
+}
+#footer-2 .icons .socialbar .social-icon .gp{
+  background-image: url(src/assets/icon/googleplus.png);
+}
+#footer-2 .icons .socialbar .social-icon .ln{
+  background-image: url(src/assets/icon/linkedin.png);
+}
+#footer-2 .icons .socialbar .social-icon .pr{
+  background-image: url(src/assets/icon/pintrest.png);
+}
+#footer-2 .icons .socialbar .social-icon .rss{
+  background-image: url(src/assets/icon/rss.png);
+}
+#footer-2 .icons .socialbar .social-icon .tw{
+  background-image: url(src/assets/icon/twitter.png);
+}
+#footer-2 .icons .socialbar .social-icon .yt{
+  background-image: url(src/assets/icon/youtube.png);
+}
+#footer-2 .icons .socialbar .social-icon{
+  list-style-type: none;
+}
+#footer-2 .icons .socialbar .social-icon li{
+  height: 65px;
+  width: 65px;
+  position: relative;
+  float: left;
+}
+#footer-2 .icons .socialbar .social-icon .sb{
+  height: 38px;
+  width: 38px;
+  border: #FCB300 5px solid;
+  border-radius: 50%;
+  transition: all ease 0.3s;
+  position: absolute;
+  top: 9px;
+  right: 9px;
+}
+#footer-2 .icons .socialbar .social-icon .sb:hover{
+  transform: scale(1.5,1.5);
+}
+#footer-2 .icons .socialbar .social-icon{
+  margin: 0 0 0 33%;
+}
+#footer-2 .search{
+  margin: -69px 87px 0 0;
+}
+#footer .search form,input{
+  font-size: 10px;
+  direction: rtl;
+  padding: 5px;
+}
