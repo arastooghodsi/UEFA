@@ -1,0 +1,29 @@
+#premier-league {
+  border: 2px solid gray;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+#champions-league {
+  border: 2px solid gray;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+#knockout-cup {
+  border: 2px solid gray;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+#futsal-league {
+  border: 2px solid gray;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+#woman-league {
+  border: 2px solid gray;
+  border-radius: 8px;
+  margin: 10px;
+}
