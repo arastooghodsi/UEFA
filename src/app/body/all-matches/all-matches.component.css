@@ -1,3 +1,7 @@
+* {
+  text-align: center;
+}
+
 #premier-league {
   border: 2px solid gray;
   border-radius: 8px;
