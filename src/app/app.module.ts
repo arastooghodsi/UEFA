@@ -18,7 +18,7 @@ import { RankingsComponent } from './body/rankings/rankings.component';
     FooterComponent,
     AllMatchesComponent,
     FeaturedComponent,
-    RankingsComponent
+    RankingsComponent,
   ],
   imports: [
     BrowserModule,
