@@ -9,6 +9,9 @@ import { FooterComponent } from './footer/footer.component';
 import { AllMatchesComponent } from './body/all-matches/all-matches.component';
 import { FeaturedComponent } from './body/featured/featured.component';
 import { RankingsComponent } from './body/rankings/rankings.component';
+import { LoginComponent } from './LoginReg/account/login.component';
+import { UserComponent } from './LoginReg/user/user.component';
+import { RegisterComponent } from './LoginReg/account/register.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +21,10 @@ import { RankingsComponent } from './body/rankings/rankings.component';
     FooterComponent,
     AllMatchesComponent,
     FeaturedComponent,
-    RankingsComponent
+    RankingsComponent,
+    LoginComponent,
+    UserComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,
